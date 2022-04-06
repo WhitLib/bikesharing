@@ -34,7 +34,17 @@ As expected, males were much more likely to check out Citibikes as opposed to an
 
 <img width="1280" alt="Screen Shot 2022-04-06 at 10 28 12 AM" src="https://user-images.githubusercontent.com/95978097/162033320-9a76463b-4a52-4107-ad53-07998d28f768.png">
 
-Based on the two visualizations below, top starting *and* ending locations were located within the same areas. This could be interpreted as a majority of trips tend to happen within and around highly-populated tourist areas. Short trip durations could be attributed to the close proximities of the starting and ending locations. 
+Based on the two visualizations below, top starting *and* ending locations in New York were located within the same areas. This could be interpreted as a majority of trips tend to happen within and around highly-populated tourist areas. Short trip durations could be attributed to the close proximities of the starting and ending locations. 
 
 <img width="1280" alt="Screen Shot 2022-04-06 at 10 32 25 AM" src="https://user-images.githubusercontent.com/95978097/162034047-f25c8979-6323-4b08-b11c-d679ba435a8f.png">
 <img width="1280" alt="Screen Shot 2022-04-06 at 10 32 39 AM" src="https://user-images.githubusercontent.com/95978097/162034088-53592469-46d6-4f69-8295-21cea4dc05c9.png">
+
+## Summary
+
+Overall, based on the results of the analysis for New York bikesharing, a few assumptions could be made about potentially implementing a bikesharing business in Des Moines, Iowa:
+
+- [x] Individuals who choose to use bikesharing services generally become subscribers as opposed to pay-as-you-ride 
+- [x] Males may be more likely than females to use and participate in these services 
+- [x] Bikesharing is used for both commuting throughout the week and for leisure on the weekends
+- [x] Expect a high number of bike rentals during heavy commute hours: between 6 AM - 10 AM and 4 PM - 7 PM.
+- [x] A majority of bike hubs should be strategically placed in highly trafficked, populated areas 
