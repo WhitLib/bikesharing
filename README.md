@@ -48,3 +48,5 @@ Overall, based on the results of the analysis for New York bikesharing, a few as
 - [x] Bikesharing is used for both commuting throughout the week and for leisure on the weekends
 - [x] Expect a high number of bike rentals during heavy commute hours: between 6 AM - 10 AM and 4 PM - 7 PM.
 - [x] A majority of bike hubs should be strategically placed in highly trafficked, populated areas 
+
+An additional analysis that could support the proposal of a bikesharing service in Des Moines, Iowa, is to look more closely at the top starting and ending station names in New York City. Understanding where and why certain stations are busier than others could help make an educated guess on where in Des Moines bike hubs would make the most sense. A bar chart would make most sense for this visualization. Additionally, another supporting analysis could be to determine the birth year range for those that join as subscribers versus customers. This information could shed insight on affordability concerns, awareness barriers, or accessibility. A heatmap could be the most informative visualization for this analysis.
