@@ -7,6 +7,10 @@ The purpose of this project was to conduct a bikesharing analysis of 2019 Citibi
 
 The first step was to figure out how the bikesharing business actually works in NY City, then create a proposal of how it may work in Des Moines. Using the data downloaded from Citibike, a series of data visualizations were created to support the upcoming proposal.
 
+## Resources
+
+- [NYC Citibike Analysis](https://public.tableau.com/shared/RWSZ3SYY3?:display_count=n&:origin=viz_share_link)
+
 ## Results
 The following visualizations are results of the analysis performed on the 2019 Citibike data from New York City, New York.
 
